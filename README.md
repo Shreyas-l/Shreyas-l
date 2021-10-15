@@ -52,7 +52,10 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="shreyas's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shreyas-l&show_icons=true&hide_border=true" />
+[![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyas-l)](https://github.com/anuraghazra/github-readme-stats)
+
+
+  <!-- <img align="left" alt="shreyas's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shreyas-l&show_icons=true&hide_border=true" /> -->
 
 </details>
 
