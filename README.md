@@ -52,7 +52,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-[![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyas-l)]
+![Shreyas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shreyas-l)
 
 
   <!-- <img align="left" alt="shreyas's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Shreyas-l&show_icons=true&hide_border=true" /> -->
