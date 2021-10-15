@@ -7,7 +7,7 @@
 
 - 🔭 I'm currently working at Circulants - Assisting emerging Bio-pharma companies in their clinical & commercial space
 - 🌱 I’m currently building a RESTful APEX framework for liveconnect between Salesforce & external systems such as SharePoint
-- 👯 I’ve worked exclusively on Databricks over the past few months building ETL pipelines for a Clinical Data Lake Solution (Azure)
+- 👯 I’ve worked exclusively on Databricks building ETL pipelines for a Clinical Data Lake Solution (Azure & AWS)
 - 🥅 I've also built a PII Data Anonymization Microservice as part of my Bachelor's final year project & also a previous internship
 - ⚡ I'm the winner of multiple hackathons including the IISc Pravega'20 Hackathon & Sutherland's INNOV-A-THON 2019
 
