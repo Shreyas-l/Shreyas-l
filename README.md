@@ -1,8 +1,5 @@
 ### Hi there, I'm Shreyas Labhsetwar👋
 
-<!-- [![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
-
 ## I'm a Software Developer!
 
 - 🔭 I'm currently working at Circulants - Assisting emerging Bio-pharma companies in their clinical & commercial space
@@ -11,15 +8,10 @@
 - 🥅 I've also built a PII Data Anonymization Microservice as part of my Bachelor's final year project & also a previous internship
 - ⚡ I'm the winner of multiple hackathons including the IISc Pravega'20 Hackathon & Sutherland's INNOV-A-THON 2019
 
-### Connect with me:
+### Connect with me
 
-<!-- [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website] -->
-<!-- [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] -->
-<!-- [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
 [<img alt="shreyas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!-- [<img align="left" alt="shreyas | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg" />][mail]
 
-<br /> -->
 
 ### Languages and Tools:
 
