@@ -8,10 +8,6 @@
 - 🥅 I've also built a PII Data Anonymization Microservice as part of my Bachelor's final year project & also a previous internship
 - ⚡ I'm the winner of multiple hackathons including the IISc Pravega'20 Hackathon & Sutherland's INNOV-A-THON 2019
 
-### Connect with me
-
-[<img alt="shreyas | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
 
 ### Languages and Tools:
 
