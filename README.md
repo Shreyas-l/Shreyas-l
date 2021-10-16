@@ -13,23 +13,23 @@
 
 <p align="center">
  <div align="center">
-   <img width="55" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/python.png.png"/>
-   <img width="35" src="https://user-images.githubusercontent.com/58290353/137593148-6e892218-cec9-4b3d-8f04-ebddcecb6c8e.png"/>
-   <img width="55" src="https://user-images.githubusercontent.com/58290353/137593271-247fd453-c0b0-4f3f-98ea-648132bbdbd1.png"/>
+   <img width="50" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/python.png.png"/>
+   <img width="30" src="https://user-images.githubusercontent.com/58290353/137593148-6e892218-cec9-4b3d-8f04-ebddcecb6c8e.png"/>
+   <img width="50" src="https://user-images.githubusercontent.com/58290353/137593271-247fd453-c0b0-4f3f-98ea-648132bbdbd1.png"/>
    
-   <img width="100" src="https://user-images.githubusercontent.com/58290353/137593206-0beff8c6-fb82-4038-a8a6-c648da06a9e9.png"/>
+   <img width="90" src="https://user-images.githubusercontent.com/58290353/137593206-0beff8c6-fb82-4038-a8a6-c648da06a9e9.png"/>
    
-   <img width="55" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/redis.png"/>
+   <img width="50" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/redis.png"/>
    
-   <img width="55" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/postgres.png"/>
+   <img width="50" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/postgres.png"/>
    
-   <img width="55" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/k8_.png"/>
+   <img width="50" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/k8_.png"/>
 
-   <img width="60" src="https://user-images.githubusercontent.com/58290353/137593431-6a269a8c-4088-4a5b-9c6d-a9b242a95507.png"/>
+   <img width="50" src="https://user-images.githubusercontent.com/58290353/137593431-6a269a8c-4088-4a5b-9c6d-a9b242a95507.png"/>
       
    <img height="50" src="https://user-images.githubusercontent.com/58290353/137593477-b8cd4f9a-ff89-4ea9-b75f-fd0c796b253d.png"/>
   
-  <img width="60" src="https://user-images.githubusercontent.com/58290353/137593484-6add8dcd-32e8-4cab-ae86-c0a81badbb7d.png"/>
+  <img width="50" src="https://user-images.githubusercontent.com/58290353/137593484-6add8dcd-32e8-4cab-ae86-c0a81badbb7d.png"/>
   
   <img height="60" src="https://user-images.githubusercontent.com/58290353/137593445-ed756d52-d5a8-41d2-a1f4-f8c85078703f.png"/>
   
