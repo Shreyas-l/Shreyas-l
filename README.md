@@ -23,7 +23,21 @@
    
    <img width="55" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/postgres.png"/>
    
-   <img width="55" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/k8_.png"/></div>
+   <img width="55" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/k8_.png"/>
+
+   <img width="80" src="https://user-images.githubusercontent.com/58290353/137593431-6a269a8c-4088-4a5b-9c6d-a9b242a95507.png"/>
+      
+   <img height="50" src="https://user-images.githubusercontent.com/58290353/137593477-b8cd4f9a-ff89-4ea9-b75f-fd0c796b253d.png"/>
+  
+  <img width="80" src="https://user-images.githubusercontent.com/58290353/137593484-6add8dcd-32e8-4cab-ae86-c0a81badbb7d.png"/>
+  
+  <img height="60" src="https://user-images.githubusercontent.com/58290353/137593445-ed756d52-d5a8-41d2-a1f4-f8c85078703f.png"/>
+  
+  <img height="50" src="https://user-images.githubusercontent.com/58290353/137593455-68f3f71d-722c-402e-8ba6-4a12eade7fa7.png"/>
+
+
+
+</div>
 </p>
 
 <!-- 
