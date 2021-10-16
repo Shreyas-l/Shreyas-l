@@ -25,7 +25,7 @@
    
    <img width="55" src="https://github.com/Shreyas-l/DataSec.AI/blob/main/Documentation/k8_.png"/>
 
-   <img width="80" src="https://user-images.githubusercontent.com/58290353/137593431-6a269a8c-4088-4a5b-9c6d-a9b242a95507.png"/>
+   <img width="60" src="https://user-images.githubusercontent.com/58290353/137593431-6a269a8c-4088-4a5b-9c6d-a9b242a95507.png"/>
       
    <img height="50" src="https://user-images.githubusercontent.com/58290353/137593477-b8cd4f9a-ff89-4ea9-b75f-fd0c796b253d.png"/>
   
